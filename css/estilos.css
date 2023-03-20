@@ -1,0 +1,40 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+    padding: 5em;
+}
+
+.titulo{
+    text-align: center;
+    background-color: aqua;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.boton{
+    border: 5px solid red;
+    background-color: blue;
+    color: white;
+    padding: .5em;
+    cursor: pointer;
+}
+
+.boton:hover{
+    color: yellow;
+}
+
+.parrafo{
+    text-align: center;
+    width: 50%;
+    border: 1px solid greenyellow;
+    padding: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin: auto;
+    
+}
